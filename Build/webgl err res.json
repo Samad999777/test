@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Math_Game",
+"dataUrl": "webgl err res.data.unityweb",
+"wasmCodeUrl": "webgl err res.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl err res.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
